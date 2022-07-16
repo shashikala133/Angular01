@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+div{
+    background-color: blue;
+    color: wheat;
+    padding: 10%;
+    width:500px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+div:hover{
+    background-color: pink;
+    color: white;
+    padding: 10%;
+    border: 2px solid white;
+    border-radius: 50%;   
+}
